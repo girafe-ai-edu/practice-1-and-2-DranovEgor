@@ -43,3 +43,5 @@ If you are allergic to the CLI. Use the [instructions](https://code.visualstudio
 I will send a link similar to this one *https://classroom.github.com/a/uI4Ehkwu* (example)
 
 This is a link to the GitHub Classroom. You click on it and are added to our class on GitHub. A repository is automatically created on your account, in which you will need to commit the homework files before the specified deadline. 
+
+Еще одна строчка
